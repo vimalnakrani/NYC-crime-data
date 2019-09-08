@@ -1,2 +1,2 @@
 # NYC-crime-data
-Exploratory Data Analysis in New York Crime Data
+Exploratory Data Analysis of New York Crime Data
